@@ -1,4 +1,5 @@
-_pkgbase=legion-thinkbook16p-2024-sound-fix
+# Maintainer: Yage
+_pkgbase=legion-thinkbook16p-gen5-sound-fix
 pkgname=${_pkgbase}-dkms
 pkgver=1
 pkgrel=1
